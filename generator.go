@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/kirinlabs/HttpRequest"
+	"github.com/isaccanedo/HttpRequest"
 	"strings"
 )
 
